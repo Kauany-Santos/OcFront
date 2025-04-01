@@ -1,7 +1,7 @@
-import Sidebar from "./Sidebar";
-import Header from "./Header";
-import Carousel from "./Carousel";
-import Recommended from "./Recommended";
+import Sidebar from "src/components/Sidebar.jsx";
+import Header from "src/components/Header.jsx";
+import Carousel from "src/components/Carousel.jsx";
+import Recommended from "src/components/Recommended.jsx";
 
 export default function Home() {
   return (
